@@ -1,4 +1,3 @@
-// quotes/quotes.js
 module.exports = [
     'The storm may roar, but it cannot drown a determined soul.',
     'Every scar you carry is proof you fought and lived.',
